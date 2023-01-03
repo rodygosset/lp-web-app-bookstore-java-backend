@@ -30,7 +30,7 @@ Afin de faire tourner le frontend du site, simplement taper la commande suivante
 npm run dev
 ```
 
-> Faites attention de bien exécuter cette commande
+> Faites attention à bien exécuter cette commande
 > depuis la racine du projet Next.js
 
 
@@ -41,3 +41,6 @@ npm run dev
 ## Lancement du backend
 
 Ouvrir le projet Eclipse et lancer le serveur, comme fait lors du cours sur les Servlet.
+
+> Faites attention à ce que le serveur soit relié au port 8081,
+> sans quoi le frontend ne pourra pas y faire de requête.
